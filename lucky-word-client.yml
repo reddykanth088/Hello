@@ -1,4 +1,4 @@
 ---
-spring:
-  application:
-    name: lucky-word-client
+wordConfig:
+  luckyWord: SLOKAM TECH
+

@@ -1,4 +1,4 @@
 ---
-wordConfig:
-  luckyWord:SLOKAM TECH
-  preamble:The lucky word is
+spring:
+  application:
+    name: lucky-word-client
